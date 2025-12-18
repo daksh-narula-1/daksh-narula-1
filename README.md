@@ -1,3 +1,4 @@
+![logo](https://github.com/daksh-narula-1/daksh-narula-1/blob/main/Data%20science%20in%20action.png)
 <h1 align="center">Hi 👋, I'm DAKSH NARULA</h1>
 <h3 align="center">An underdog special developer from India</h3>
 
