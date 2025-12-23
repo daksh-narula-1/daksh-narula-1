@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daksh-narula-1" alt="daksh-narula-1" /></a> </p>
 
-- ⚡ Fun fact **I can lift more than you, as well as I'm funny**
+- ⚡ Fun fact **I can lift more than you,
+- as well as I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
