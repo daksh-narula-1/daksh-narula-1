@@ -1,4 +1,4 @@
-![logo](https://github.com/daksh-narula-1/daksh-narula-1/blob/main/.sandbox:/mnt/data/Gemini_Generated_Image_c5obnxc5obnxc5ob.png)
+https://chatgpt.com/s/m_694b66acf14081918dbe7ad5e787b6eb
 <h1 align="center">Hi 👋, I'm DAKSH NARULA</h1>
 <h3 align="center">An underdog special developer from India</h3>
 
