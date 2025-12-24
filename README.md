@@ -1,4 +1,4 @@
-https://chatgpt.com/s/m_694b66acf14081918dbe7ad5e787b6eb
+![My Banner](Profile.avif)
 <h1 align="center">Hi 👋, I'm DAKSH NARULA</h1>
 <h3 align="center">An underdog special developer from India</h3>
 
